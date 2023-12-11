@@ -40,6 +40,7 @@
 				"autoDocstring.docstringFormat": "sphinx" 
 			},
 			"extensions": [
+				"github.vscode-github-actions",
 				"hashicorp.terraform",
 				"howardzuo.vscode-git-tags",
 				"ms-python.black-formatter",
