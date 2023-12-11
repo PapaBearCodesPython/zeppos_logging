@@ -1,5 +1,4 @@
 -c ${CONSTRAINTS}
-# Required for local (and Jenkins) unit testing/linting
 black
 mypy
 pipdeptree
